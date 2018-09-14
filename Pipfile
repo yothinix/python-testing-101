@@ -9,8 +9,11 @@ name = "pypi"
 
 python_version = "3.7"
 
+
 [scripts]
+
 flask = "flask run"
+
 
 [packages]
 
@@ -19,3 +22,7 @@ flask = "*"
 pytest = "*"
 coverage = "*"
 "e1839a8" = {path = ".", editable = true}
+requests = "*"
+responses = "*"
+freezegun = "*"
+mypy = "*"
