@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "6f11336110af34cf5df159be3cc41e98614516fc7b27a3452af99890dbdb7f1c"
+            "sha256": "db47ff6ebe6d9379f595133e5d039406e4c7cd9b276af9bff5bfd20b260b70e6"
         },
         "requires": {
             "python_version": "3.7"
@@ -94,6 +94,10 @@
                 "sha256:f8a923a85cb099422ad5a2e345fe877bbc89a8a8b23235824a93488150e45f6e"
             ],
             "version": "==4.5.1"
+        },
+        "e1839a8": {
+            "editable": true,
+            "path": "."
         },
         "enum34": {
             "hashes": [
