@@ -8,7 +8,6 @@ cookies==2.2.1
 coverage==4.5.1
 flake8==3.5.0
 Flask==1.0.2
--e git+git@github.com:yothinix/python-testing-101.git@52644df53d437c58892dd1775655ca366365044c#egg=flaskr
 freezegun==0.3.10
 idna==2.7
 isort==4.3.4
